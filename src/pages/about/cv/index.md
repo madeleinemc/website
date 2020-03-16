@@ -2,65 +2,47 @@
 templateKey: TemplateBasic
 backTo: /
 backLabel: about
-title: Juliette Pretot
+title: Madeleine Chang
 ---
 
-_Creative, ambitious, and enterprising software engineer._
+_Second-year Cornell University undergraduate with algorithms and data analysis experience looking for a 2020 summer internship._
 
-**hi@juliette.sh**
-
-## Skills
-
-- JavaScript, React, GraphQL, Node.js
-- Mentoring, Agile Methodology
-
-## Work
-
-#### UX Engineer at Google, starting 2020.04, London
-
-Working on a project related to data security.
-
-#### Senior Web Engineer at N26, 2018.01 - 2020.03, New York City & Berlin
-
-Isomorphic React, GraphQL, & Node.js powering the webapp of a challenger bank with 5M users.
-
-- Multiplied developer productivity by engineering key abstractions for state and UI
-- Led web development of key features
-- Reduced errors in prod by 30% via deterministic script loading
-- Sped up time-to-first-meaningful-paint by 20% with improved server-side rendering
-- Improved time-to-interactive by 1.4s with code splitting
-- Doubled font loading speed via range-splitting & preloading
-- Mentored junior & mid-level engineers, conducted interviews, took charge of team processes
-
-#### Lead Engineer at Language Academy, 2016.08 - 2017.12, Berlin
-
-Statically rendered React for a language learning platform.
-
-- Created and led development of the web platform
-- Achieved a 10% visitor to subscriber rate on marketing pages
-- Achieved a 63% faster time-to-interactive compared to competitors
-- Reduced email automation cost by 82% with open source software
-- Co-founded the company, brought it to profitability
-
-#### Web Developer & Design Researcher at Clue, 2015 - 2016, Berlin
-
-JavaScript, HTML, & Python for a health tracking app with 5M users.
-
-- Rebuilt the support website, increasing page views by +20%
-- Built in-app surveys using web technologies
-- Prototyped a chatbot in Python
-- Created company-wide processes for user research
-
-## Community
-
-- Google Developer Expert for Web Technologies, 2019 to 2020
+**mmc337@cornell.edu**
 
 ## Education
 
-- Google Developer Challenge, Mobile Web Specialist (Scholarship)
-- Law at Humboldt University Berlin
+#### Cornell University, 05.2022
 
-## Related Projects
+- B.A., Computer Science & B.A., Astronomy 
+- 3.75/4.0
+- Relevant coursework:  Intro to Machine Learning, Data Structures & Functional Programming, Linear Algebra, Short Course in Python, OO Programming and Data Structures, Probability Models and Inference, Discrete Structures
 
-- [co-commit](https://github.com/juliettepretot/npx-co-commit): A Node.js tool to co-author commits on GitHub when pair programming. Featured on the front page of [Product Hunt](https://www.producthunt.com/posts/co-commit).
-- [Agnostic Axe](https://github.com/juliettepretot/agnostic-axe): Developer tool that reports accessibility issues to the browser console.
+## Work
+
+#### Machine Learning Intern, 02.2020 - Present
+
+Working on training an algorithm to recognize demolition sites in satellite imagery of China, using Tensorflow in Python, with Dr. Jeremy Wallace, Cornell Department of Government.
+
+#### Data Analysis Intern​, 12.2018 - 11.2019
+
+Used Python to perform multivariate analysis on historical market data at Sakonnet Point Capital, a quantitative investment fund based in Greenwich, Connecticut.
+
+#### Astrophysics Researcher​, 09.2017 - 09.2019
+
+Extracted and visualized stellar maps of galaxies an online survey database using Python for galaxy evolution research with Dr. Charles Liu at the American Museum of Natural History, New York City. Used photometry and spectroscopy to analyze and classify hundreds of new galaxies.
+
+#### Physics Teaching Assistant, 08.2019 - Present
+
+Led a class of 20 undergraduates in discussion and group labs as an Undergraduate Teaching Assistant (UTA) for PHYS 1112 (Physics I: Mechanics & Heat) and PHYS 2213 (Physics II: Electromagnetism) at Cornell University
+
+## Skills
+
+- Python, Java, OCaml, C++, SQL, GameMaker Language, HTML & CSS, Mandarin Chinese
+- React.js, Jupyter Notebook, matplotlib, Git
+- Adobe Certified Associate for Adobe Photoshop CC (3.2018)
+
+## Honors
+
+- Girl Scout Gold Award (6.2018) as a high school senior for establishing an all-girl introduction to coding class using game design in a local middle school 
+- 36/36 ACT (10.2017)
+- [1st Place at the Women’s Foil Division 3 National Championship (Dallas, TX)](https://www.usfencingresults.org/results/2015-2016/2016.06-JUN-SN/FTEvent_2016Jun29_DV3WF.htm)

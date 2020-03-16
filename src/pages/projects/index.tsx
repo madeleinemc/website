@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 import styled from 'styled-components'
 import Layout from '~/components/Layout'
 import PageWrapper from '~/components/PageWrapper'
-import Link from '~/components/Link'
 
 const Projects = styled.div`
   column-count: 2;
@@ -26,37 +25,6 @@ const ProjectWrapper = styled.div`
 // By using positon: relative we define the limit of the overflowing link
 const ImageTitleWrapper = styled.div`
   position: relative;
-`
-
-// To maintain a solid a11y tree the link only contains the title, but overflows
-// to make the image clickable as well.
-const OverflowingLink = styled(Link)`
-  ::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 3;
-  }
-
-  text-decoration: none;
-  margin: 0.5em 0 0.25em 0;
-  display: inline-block;
-  color: var(--pink);
-  border-bottom: none;
-  font-size: 1.75rem;
-  font-weight: bold;
-  word-spacing: -0.3ch;
-
-  :hover {
-    border-bottom: none;
-  }
-
-  @media print {
-    word-spacing: initial;
-  }
 `
 
 const Title = styled.h3`
@@ -94,37 +62,35 @@ const IndexPage: React.FunctionComponent<{
     <Layout pathname={pathname}>
       <PageWrapper>
         <Projects>
-          {relevantPosts.map((
-            {
-              node: {
-                id,
-                frontmatter: { featuredImage, link, title, tools, intro },
-                fields: { slug }
-              }
-            }: any /* type checked by GraphQL */
-          ) => {
-            return (
-              <ProjectWrapper key={id}>
-                <ImageTitleWrapper>
-                  <Img
-                    placeholderStyle={{}}
-                    fadeIn={false}
-                    sizes={{
-                      ...featuredImage.childImageSharp.sizes,
-                      base64: featuredImage.childImageSharp.sqip.dataURI
-                    }}
-                  />
-                  <Title>
-                    <OverflowingLink to={String(link || slug)}>
-                      {String(title)}
-                    </OverflowingLink>
-                  </Title>
-                </ImageTitleWrapper>
-                <ToolsUsed>{tools}</ToolsUsed>
-                <Description>{intro}</Description>
-              </ProjectWrapper>
-            )
-          })}
+          {relevantPosts.map(
+            (
+              {
+                node: {
+                  id,
+                  frontmatter: { featuredImage, title, tools, intro },
+                  fields: { slug }
+                }
+              }: any /* type checked by GraphQL */
+            ) => {
+              return (
+                <ProjectWrapper key={id}>
+                  <ImageTitleWrapper>
+                    <Img
+                      placeholderStyle={{}}
+                      fadeIn={false}
+                      sizes={{
+                        ...featuredImage.childImageSharp.sizes,
+                        base64: featuredImage.childImageSharp.sqip.dataURI
+                      }}
+                    />
+                    <Title>{String(title)}</Title>
+                  </ImageTitleWrapper>
+                  <ToolsUsed>{tools}</ToolsUsed>
+                  <Description>{intro}</Description>
+                </ProjectWrapper>
+              )
+            }
+          )}
         </Projects>
       </PageWrapper>
     </Layout>
@@ -147,7 +113,6 @@ export const projectQuery = graphql`
             tools
             templateKey
             intro
-            link
             featuredImage {
               childImageSharp {
                 sqip(numberOfPrimitives: 24, blur: 0, width: 256) {

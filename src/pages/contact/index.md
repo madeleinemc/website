@@ -1,10 +1,9 @@
 ---
 templateKey: TemplateBasic
-title: I'm always happy to hear from you.
+title: You can find me at these virtual locations.
 ---
 
-### 📮 hi@juliette.sh
+### 📮 mmc337@cornell.edu
 
-- [Twitter](https://twitter.com/juliettepretot)
-- [GitHub](https://github.com/juliettepretot)
-- [LinkedIn](https://www.linkedin.com/in/juliette-prétot-2a9530a5/)
+- [GitHub](https://github.com/madeleinemc)
+- [LinkedIn](https://www.linkedin.com/in/changmadeleine/)

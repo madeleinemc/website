@@ -1,8 +1,8 @@
 {
-  "name": "juliette.sh",
-  "description": "juliette.sh",
+  "name": "madeleine.ch",
+  "description": "madeleine.ch  ",
   "version": "0.1.0",
-  "author": "Juliette Pretot",
+  "author": "Madeleine Chang",
   "dependencies": {
     "@types/node": "^13.7.7",
     "@types/react": "^16.9.23",

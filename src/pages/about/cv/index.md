@@ -11,7 +11,7 @@ _Second-year Cornell University undergraduate with algorithms and data analysis 
 
 ## Education
 
-#### Cornell University, 05.2022
+#### Cornell University, 2022
 
 - B.A., Computer Science & B.A., Astronomy 
 - 3.75/4.0
@@ -21,19 +21,19 @@ _Second-year Cornell University undergraduate with algorithms and data analysis 
 
 #### Machine Learning Intern, 02.2020 - Present
 
-Working on training an algorithm to recognize demolition sites in satellite imagery of China, using Tensorflow in Python, with Dr. Jeremy Wallace, Cornell Department of Government.
+Working on training an algorithm to recognize demolition sites in satellite imagery of China, using Tensorflow in Python, with Dr. Jeremy Wallace, **Cornell University** Department of Government.
 
 #### Data Analysis Intern​, 12.2018 - 11.2019
 
-Used Python to perform multivariate analysis on historical market data at Sakonnet Point Capital, a quantitative investment fund based in Greenwich, Connecticut.
+Used Python to perform multivariate analysis on historical market data at **Sakonnet Point Capital**, a quantitative investment fund based in Greenwich, Connecticut.
 
 #### Astrophysics Researcher​, 09.2017 - 09.2019
 
-Extracted and visualized stellar maps of galaxies an online survey database using Python for galaxy evolution research with Dr. Charles Liu at the American Museum of Natural History, New York City. Used photometry and spectroscopy to analyze and classify hundreds of new galaxies.
+Extracted and visualized stellar maps of galaxies an online survey database using Python for galaxy evolution research with Dr. Charles Liu at the **American Museum of Natural History**, New York City. Used photometry and spectroscopy to analyze and classify hundreds of new galaxies.
 
 #### Physics Teaching Assistant, 08.2019 - Present
 
-Led a class of 20 undergraduates in discussion and group labs as an Undergraduate Teaching Assistant (UTA) for PHYS 1112 (Physics I: Mechanics & Heat) and PHYS 2213 (Physics II: Electromagnetism) at Cornell University
+Led a class of 20 undergraduates in discussion and group labs as an Undergraduate Teaching Assistant (UTA) for PHYS 1112 (Physics I: Mechanics & Heat) and PHYS 2213 (Physics II: Electromagnetism) at **Cornell University**.
 
 ## Skills
 

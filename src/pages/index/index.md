@@ -1,13 +1,13 @@
 ---
 templateKey: IndexPage
-title: Nice to meet you
+title: Hey there!
 featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Juliette Pretot_**. I'm a creative, ambitious, and enterprising software engineer.
+I'm **_Madeleine Chang_**, a second-year undergraduate at Cornell University studying **Computer Science** and **Astronomy** with algorithms and data science experience.
 
-Recently I accepted a position at **Google** in **London**. There I'll be working on a project relating to data security. Previously I built a banking app at N26 in Berlin & NYC. THIS IS THE NEW TEXT
+I'm interested in machine learning, graphic design and space exploration! I've worked on projects ranging from galaxy evolution to China's government, and I've used primarily Python for ML and Java/OCaml for SWE. I love exploring the possibilities within computer science, so new projects are always a joy.
 
 <span class="secondary-text">
 

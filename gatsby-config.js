@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Madeleine Chang',
-    siteUrl: ''
+    siteUrl: 'https://www.cornell.edu/'
   },
   plugins: [
     'gatsby-plugin-typescript',

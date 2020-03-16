@@ -67,8 +67,7 @@ const IndexPage: React.FunctionComponent<{
               {
                 node: {
                   id,
-                  frontmatter: { featuredImage, title, tools, intro },
-                  fields: { slug }
+                  frontmatter: { featuredImage, title, tools, intro }
                 }
               }: any /* type checked by GraphQL */
             ) => {

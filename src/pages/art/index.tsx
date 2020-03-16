@@ -55,7 +55,7 @@ const IndexPage: React.FunctionComponent<{
   location: { pathname }
 }) => {
   const relevantPosts = edges.filter((post: any) =>
-    post.node.fields.slug.startsWith('/projects/')
+    post.node.fields.slug.startsWith('/art/')
   )
 
   return (
@@ -67,8 +67,7 @@ const IndexPage: React.FunctionComponent<{
               {
                 node: {
                   id,
-                  frontmatter: { featuredImage, title, tools, intro },
-                  fields: { slug }
+                  frontmatter: { featuredImage, title, tools, intro }
                 }
               }: any /* type checked by GraphQL */
             ) => {

@@ -94,7 +94,6 @@ const Navbar: React.FunctionComponent<{
         Icon={(props: IconProps) => <ProjectsIcon {...props} />}
         label="Art"
       />
-      />
       <NavbarLink
         to="/contact"
         isActive={new RegExp('^/contact').test(pathname)}

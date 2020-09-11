@@ -5,7 +5,7 @@ backLabel: about
 title: Madeleine Chang
 ---
 
-_Second-year Cornell University undergraduate with algorithms and data analysis experience looking for a 2020 summer internship._
+_Third-year Cornell University undergraduate with algorithms and data analysis experience looking for a 2021 summer internship._
 
 **mmc337@cornell.edu**
 
@@ -13,9 +13,9 @@ _Second-year Cornell University undergraduate with algorithms and data analysis 
 
 #### Cornell University, 2022
 
-- B.A., Computer Science & B.A., Astronomy 
+- B.A., Computer Science & B.A., Astronomy
 - 3.75/4.0
-- Relevant coursework:  Intro to Machine Learning, Data Structures & Functional Programming, Linear Algebra, Short Course in Python, OO Programming and Data Structures, Probability Models and Inference, Discrete Structures
+- Relevant coursework: Intro to Machine Learning, Data Structures & Functional Programming, Linear Algebra, Short Course in Python, OO Programming and Data Structures, Probability Models and Inference, Discrete Structures
 
 ## Work
 
@@ -37,12 +37,12 @@ Led a class of 20 undergraduates in discussion and group labs as an Undergraduat
 
 ## Skills
 
-- Python, Java, OCaml, C++, SQL, GameMaker Language, HTML & CSS, Mandarin Chinese
-- React.js, Jupyter Notebook, matplotlib, Git
+- C++, Python, Java, OCaml, SQL, GameMaker Language, HTML & CSS, Mandarin Chinese
+- React.js, Jupyter Notebook, matplotlib, Git, sklearn, QtApplication
 - Adobe Certified Associate for Adobe Photoshop CC (3.2018)
 
 ## Honors
 
-- Girl Scout Gold Award (6.2018) as a high school senior for establishing an all-girl introduction to coding class using game design in a local middle school 
+- Girl Scout Gold Award (6.2018) as a high school senior for establishing an all-girl introduction to coding class using game design in a local middle school
 - 36/36 ACT (10.2017)
-- [1st Place at the Women’s Foil Division 3 National Championship (Dallas, TX)](https://www.usfencingresults.org/results/2015-2016/2016.06-JUN-SN/FTEvent_2016Jun29_DV3WF.htm)
+- [1st Place at the Women’s Foil Division 3 National Championship (6.2016)](https://www.usfencingresults.org/results/2015-2016/2016.06-JUN-SN/FTEvent_2016Jun29_DV3WF.htm)

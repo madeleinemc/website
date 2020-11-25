@@ -5,7 +5,7 @@ backLabel: about
 title: Madeleine Chang
 ---
 
-_Third-year Cornell University undergraduate with algorithms and data analysis experience looking for a 2021 summer internship._
+_Third-year Cornell University undergraduate with algorithms and data analysis experience looking for an exciting and meaningful job._
 
 **mmc337@cornell.edu**
 
@@ -14,14 +14,20 @@ _Third-year Cornell University undergraduate with algorithms and data analysis e
 #### Cornell University, 2022
 
 - B.A., Computer Science & B.A., Astronomy
-- 3.75/4.0
-- Relevant coursework: Intro to Machine Learning, Data Structures & Functional Programming, Linear Algebra, Short Course in Python, OO Programming and Data Structures, Probability Models and Inference, Discrete Structures
+- 3.73/4.0
+- Relevant coursework: Analysis of Algorithms, Intro to Machine Learning, Data Structures & Functional Programming, Linear Algebra, Short Course in Python, OO Programming and Data Structures, Probability Models and Inference, Discrete Structures
 
 ## Work
 
-#### Machine Learning Intern, 02.2020 - Present
+#### Incoming 2021 Risk Summer Analyst @ **Goldman Sachs**
 
-Working on training an algorithm to recognize demolition sites in satellite imagery of China, using Tensorflow in Python, with Dr. Jeremy Wallace, **Cornell University** Department of Government.
+#### Flight Software Engineer, 09.2020 - Present
+
+Designing flight software for the [Pathfinder for Autonomous Navigation (PAN)](https://www.spacecraftresearch.com/pan) project, which will launch two CubeSat satellites that will autonomously dock in low Earth orbit
+
+#### Political Science Research Assistant, 02.2020 - Present
+
+Edit Dr. Jeremy Wallace's (**Cornell University** Department of Government) upcoming book on authoritarian politics, "Seeking Truth and Hiding Facts" and analyze occurrences of words in Chinese media over time.
 
 #### Data Analysis Intern​, 12.2018 - 11.2019
 

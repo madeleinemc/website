@@ -37,14 +37,14 @@ Used Python to perform multivariate analysis on historical market data at **Sako
 
 Extracted and visualized stellar maps of galaxies an online survey database using Python for galaxy evolution research with Dr. Charles Liu at the **American Museum of Natural History**, New York City. Used photometry and spectroscopy to analyze and classify hundreds of new galaxies.
 
-#### Physics Teaching Assistant, 08.2019 - Present
+#### Physics Teaching Assistant, 08.2019 - 5.2020
 
 Led a class of 20 undergraduates in discussion and group labs as an Undergraduate Teaching Assistant (UTA) for PHYS 1112 (Physics I: Mechanics & Heat) and PHYS 2213 (Physics II: Electromagnetism) at **Cornell University**.
 
 ## Skills
 
 - C++, Python, Java, OCaml, SQL, GameMaker Language, HTML & CSS, Mandarin Chinese
-- React.js, Jupyter Notebook, matplotlib, Git, sklearn, QtApplication
+- Jupyter Notebook, matplotlib, Git, sklearn, QtApplication, React.js
 - Adobe Certified Associate for Adobe Photoshop CC (3.2018)
 
 ## Honors
